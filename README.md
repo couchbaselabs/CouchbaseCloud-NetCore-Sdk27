@@ -1,0 +1,1 @@
+# CouchbaseCloud-NetCore-Sdk27
